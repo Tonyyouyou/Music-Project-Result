@@ -1,2 +1,3 @@
 ## Lyric Recognition Project
-This is the result of Self-supervised learning for lyrics recognition project
+There are two dataset result `DAMP`and `MusDB`, all project based on Espnet
+
